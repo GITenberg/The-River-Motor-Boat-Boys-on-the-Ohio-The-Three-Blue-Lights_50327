@@ -1,10 +1,16 @@
 _repo: The-River-Motor-Boat-Boys-on-the-Ohio-The-Three-Blue-Lights_50327
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50327-h/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Harry
     gutenberg_agent_id: '39477'
     url: http://www.gutenberg.org/2009/agents/39477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50327#The-River-Motor-Boat-Boys-on-the-Ohio-The-Three-Blue-Lights
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
